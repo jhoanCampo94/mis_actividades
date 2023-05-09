@@ -1,0 +1,21 @@
+.container-activities {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.container-activities-count {
+  margin-top: 1rem;
+
+  position: absolute;
+  bottom: 0.5rem;
+  left: 45%;
+}
+
+.container-activities-count span {
+  color: #fff;
+  
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+}
